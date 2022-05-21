@@ -1,0 +1,30 @@
+.header
+{
+    font-size: 40px;
+    width: 100%;
+    background-color: blue;
+    color: darkgreen;
+    box-shadow: 5px 5px 5px red;
+}
+#note
+{
+ font-size: 30px;
+ color: black;
+}
+.copy_right_footer
+{
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    line-height: 3;
+    font-size: 30px;
+    background-color: wheat;
+    color: brown;
+}
+canvas
+{
+    border:5px solid wheat;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px red;
+}
